@@ -18,9 +18,10 @@
 ### Parte opcional do desafio
 resposta positiva
 ![image](https://user-images.githubusercontent.com/101940943/160435241-86b6e27a-9975-49cf-8486-60057ff19ae5.png)
+</br>
 resultado 
 ![image](https://user-images.githubusercontent.com/101940943/160435360-b5f089c1-64c4-40e7-b25b-51dd9b842bb8.png)
-
+</br>
 resposta negativa
 ![image](https://user-images.githubusercontent.com/101940943/160435611-6df05b3d-c6c7-419f-838b-93553c6ea072.png)
 
